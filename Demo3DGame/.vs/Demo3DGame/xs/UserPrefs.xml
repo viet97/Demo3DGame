@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D81B51A9-62DA-97C7-5BDE-584664CF1A55}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scrips/Player.cs">
+    <Files>
+      <File FileName="Assets/Scrips/Player.cs" Line="8" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Demo3DGame" expanded="True" selected="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scrips" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4789d5b9-dab1-43fc-b079-990443e90400" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
